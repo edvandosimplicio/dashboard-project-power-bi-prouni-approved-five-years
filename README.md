@@ -59,7 +59,8 @@ O dashboard apresenta:
 ---
 
 ## 📷 Prévia do Dashboard
-> ![dashboard](dashboard-project-power-bi-prouni-approved-five-years\imgs)
+> ![dashboard](dashboard-project-power-bi-prouni-approved-five-years/dashboard-project-power-bi-prouni-approved-five-years
+/imgs/)
 
 ---
 
